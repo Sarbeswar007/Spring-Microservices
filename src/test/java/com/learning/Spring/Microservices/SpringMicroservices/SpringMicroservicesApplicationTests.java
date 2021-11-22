@@ -15,6 +15,7 @@ class SpringMicroservicesApplicationTests {
 	@Test
 	void contextLoads() {
 		log.info("Test Case executing");
+		log.info("Test Case executing for the second time....!!!!!!");
 		assertEquals(1, 1);
 	}
 
